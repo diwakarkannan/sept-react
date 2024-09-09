@@ -1,0 +1,8 @@
+{
+  "component": {
+    "path": "src/components",
+    "extension": "jsx",
+    "withStyle": false,
+    "withTest": false
+  }
+}
